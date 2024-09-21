@@ -1,0 +1,9 @@
+{
+    "name": "com.gateboxlab.gatebox.variant",
+    "version": "1.0.0",
+    "displayName": "Gatebox.Variant",
+    "description": "A C# library for representing JSON data naturally in C#, focusing on direct mapping of JSON values to C# types.",
+    "unity": "2020.3",
+    "keywords": ["json"],
+    "dependencies": {}
+}
